@@ -1,4 +1,4 @@
-#BoF-Auto
+# BoF-Auto
 
 The purpose of this script is to make Buffer Overflows easier.
 
